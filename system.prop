@@ -44,6 +44,9 @@ ro.iorapd.enable=true
 persist.lcd.cabc_mode=1
 persist.lcd.hbm_mode=0
 
+# IORap
+ro.iorapd.enable=true
+
 # Incremental FS
 ro.incremental.enable=1
 
