@@ -17,6 +17,9 @@ PRODUCT_PACKAGES += \
     NoCutoutOverlay \
     NotchBarKiller
 
+# Board
+TARGET_USES_QCOM_CHIPSET := true
+
 # AID/fs configs
 PRODUCT_PACKAGES += \
     fs_config_files
