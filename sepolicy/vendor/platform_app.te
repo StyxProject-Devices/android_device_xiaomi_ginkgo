@@ -1,2 +1,5 @@
 # FPS info
 allow platform_app sysfs_graphics:file r_file_perms;
+
+# NFC
+allow platform_app nfc_service:service_manager find;
