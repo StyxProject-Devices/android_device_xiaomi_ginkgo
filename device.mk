@@ -20,7 +20,8 @@ PRODUCT_ENFORCE_RRO_TARGETS := *
 PRODUCT_PACKAGES += \
     GinkgoMiuiCamera \
     NoCutoutOverlay \
-    NotchBarKiller
+    NotchBarKiller \
+    WillowFrameworkRes
 
 # Board
 TARGET_USES_QCOM_CHIPSET := true
