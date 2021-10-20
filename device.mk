@@ -18,7 +18,6 @@ DEVICE_PACKAGE_OVERLAYS += \
 PRODUCT_ENFORCE_RRO_TARGETS := *
 
 PRODUCT_PACKAGES += \
-    GinkgoMiuiCamera \
     NoCutoutOverlay \
     NotchBarKiller \
     WillowFrameworkRes
